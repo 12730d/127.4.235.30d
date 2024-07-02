@@ -6,7 +6,8 @@ Any scripts, software, or other services offered in this repository are propriet
 You can request the decryption key:
 
 ### Email
- 127.30d.pastor976@slmail.me
+- [x]127.30d.pastor976@slmail.me
+
 ### (uTox ID)
 - [x] E43A76B487940D79C7D75D44667318EC5656892D092C48641E8E9EA85551227B7FFFFFFF1550
 
