@@ -3,7 +3,7 @@ This repository is private, and the creator of this repository will not be respo
 
 Any scripts, software, or other services offered in this repository are proprietary execution files built with {30D} client code.
 
-You can request the decryption key:
+You can request the decryption key:🔏
 
 ### Email
 - [x] 127.30d.pastor976@slmail.me
