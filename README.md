@@ -7,11 +7,7 @@ You can request the decryption key:
 ### (utox)
 import QrCreator from 'https://github.com/12730d/127.4.235.30d/blob/main/doc/30d_User-cleaned.jpg';
  "127.30d.pastor976@slmail.me"
-# Awesome QR Code [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-
-[<img src="repo-link.svg" align="right" width="100">](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme)
-### team
-
+![QR code](https://quickchart.io/qr?text=hello%20world)
 | practical | completion |
 | ------- | ---------- |
 | `127.4.235.30d` | `%23` |
