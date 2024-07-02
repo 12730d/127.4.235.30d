@@ -3,12 +3,13 @@ This repository is private, and the creator of this repository will not be respo
 
 Any scripts, software, or other services offered in this repository are proprietary execution files built with {30D} client code.
 
-You can request the decryption key:
+You can request the decryption key: "127.30d.pastor976@slmail.me"
+
 ### (utox)
-import QrCreator from 'https://github.com/12730d/127.4.235.30d/blob/main/doc/30d_User-cleaned.jpg';
- "127.30d.pastor976@slmail.me"
- 
-![QR code](https://quickchart.io/qr?text=hello%20world)
+
+![QR code](https://github.com/12730d/127.4.235.30d/blob/main/doc/30d_User-cleaned.jpg)
+ E43A76B487940D79C7D75D44667318EC5656892D092C48641E8E9EA85551227B7FFFFFFF1550
+
 
 | practical | completion |
 | ------- | ---------- |
