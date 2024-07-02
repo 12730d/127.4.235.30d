@@ -5,11 +5,8 @@ Any scripts, software, or other services offered in this repository are propriet
 
 You can request the decryption key: "127.30d.pastor976@slmail.me"
 
-### (utox)
-
-![QR code](https://github.com/12730d/127.4.235.30d/blob/main/doc/30d_User.png)
-
-E43A76B487940D79C7D75D44667318EC5656892D092C48641E8E9EA85551227B7FFFFFFF1550
+### (utox ID)
+"E43A76B487940D79C7D75D44667318EC5656892D092C48641E8E9EA85551227B7FFFFFFF1550"
 
 
 | practical | completion |
